@@ -122,8 +122,4 @@ If the app's behavior changes in a way that affects this policy, we will update 
 ## 12. Contact
 
 Orbital Builds
-Email: **[your email]**
-
----
-
-*This policy is published at the URL provided in the App Store listing and in the app's Settings.*
+Email: **orbitalbuilds@gmail.com**
