@@ -115,7 +115,7 @@ Users in the European Economic Area, the United Kingdom, California, and other r
 
 ## 11. Changes to this policy
 
-If the app's behavior changes in a way that affects this policy, we will update this page and change the effective date at the top. Material changes will also be noted in the app's release notes.
+If the app's behavior changes in a way that affects this policy, we will update this page and change the effective date at the top.
 
 ---
 
